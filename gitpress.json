@@ -1,5 +1,5 @@
 {
-	"docs"      : ["README.md", "docs"],	
+	"docs"      :  {"技术文档": "posts/tech", "生活随笔": "posts/life"},	
 	"perpage"   : 10,
 	"types"     : {
 		"\\.(md||markdown)$"   : "markdown", 
